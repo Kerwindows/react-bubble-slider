@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-bubble-slider/static/css/main.6b9f5766.css",
+    "main.js": "/react-bubble-slider/static/js/main.a241a9f9.js",
+    "index.html": "/react-bubble-slider/index.html",
+    "main.6b9f5766.css.map": "/react-bubble-slider/static/css/main.6b9f5766.css.map",
+    "main.a241a9f9.js.map": "/react-bubble-slider/static/js/main.a241a9f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b9f5766.css",
+    "static/js/main.a241a9f9.js"
+  ]
+}
